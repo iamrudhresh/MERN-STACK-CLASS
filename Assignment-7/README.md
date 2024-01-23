@@ -51,13 +51,16 @@
 - IMPORTANT 3 ELEMENTS OR TAGS
     
     - HEADING : 
-        - HEADING H1 - H6 EXAMPLE
-       <h1>HELLO WORLD</h1>
+
+     ```html
+        <h1>HELLO WORLD</h1>
         <h2>HELLO WORLD</h2>
         <h3>HELLO WORLD</h3>
         <h4>HELLO WORLD</h4>
         <h5>HELLO WORLD</h5>
         <h6>HELLO WORLD</h6>
+    ```
+
     - PARGRAPH :
         - EXAMPLE
     - BUTTON :
