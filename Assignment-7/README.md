@@ -62,9 +62,13 @@
     ```
 
     - PARGRAPH :
-        - EXAMPLE
+      ```html
+      <p>this is a paragraph tag. </p>
+      ```
     - BUTTON :
-        - EXAMPLE 
+      ```html
+      <button>CLICK HERE</button>
+      <a href=""><button>CLICK HERE</button></a>
     
     
 - WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
