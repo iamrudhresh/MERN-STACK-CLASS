@@ -68,7 +68,8 @@
     - BUTTON :
       ```html
       <button>CLICK HERE</button>
-      <a href=""><button>CLICK HERE</button></a>
+      
+      <a href="" target="_blank"><button>CLICK HERE</button></a>
     
     
 - WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
