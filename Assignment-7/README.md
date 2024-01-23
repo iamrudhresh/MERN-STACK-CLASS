@@ -136,4 +136,4 @@
         
     3. GRID: Grid is used for creating two-dimensional layouts with rows and columns.
   
-TAILWIND: Tailwind CSS is a utility-first CSS framework, It is basically used for styling without writing custom CSS.
+TAILWIND: Tailwind CSS is a utility based framework, It is basically used for styling without writing custom CSS.
