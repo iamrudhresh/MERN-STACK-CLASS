@@ -51,7 +51,13 @@
 - IMPORTANT 3 ELEMENTS OR TAGS
     
     - HEADING : 
-        - HEADING H1 - H6 EXAMPLE 
+        - HEADING H1 - H6 EXAMPLE
+       <h1>HELLO WORLD</h1>
+        <h2>HELLO WORLD</h2>
+        <h3>HELLO WORLD</h3>
+        <h4>HELLO WORLD</h4>
+        <h5>HELLO WORLD</h5>
+        <h6>HELLO WORLD</h6>
     - PARGRAPH :
         - EXAMPLE
     - BUTTON :
@@ -61,7 +67,7 @@
 - WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML
     
     > TAG
-        - TWO POINTS WITH EXAMPLE
+        - Tag is combination of the elements. For exmaple a-> elements => <a> </a> -> Tag
     
     > ELEMENTS
         - TWO POINTS WITH EXAMPLE
