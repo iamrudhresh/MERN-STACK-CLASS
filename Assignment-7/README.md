@@ -123,19 +123,17 @@
         - **`width`** and **`height`**: width:100px; and height:100px;
         - REAMING ALL
 
-- WHEN TO USE BACKGROUND IMG VS IMG TAG
+- WHEN TO USE BACKGROUND IMG VS IMG TAG: Use for styling backgrounds, often in CSS for elements like divs.
 - LAYOUT
-    - GIVE A 1 LINE EXPLAINATION About Layout
+    - Layout refers to the organization and arrangement of elements on a webpage, determining how they are visually structured.
     
-    1. FLEX
+    1. FLEX: Flex is a CSS property that enables flexible box layout, allowing for efficient arrangement and alignment of elements within a container.
+        - **`Justify Content`**: Aligns items along the main axis (horizontal by default) in a flex container.
+        - **`Align Items`**: Aligns items along the cross-axis (vertical by default) in a flex container.
+        - **`Flex`**: Specifies the flexibility of a flex item.
+        - **`Flex Wrap`**: Determines whether flex items should wrap to the next line if there's insufficient space.
+        - **`Order`**: Controls the order of a flex item relative to its siblings.
         
-        - GIVE A 1 LINE EXPLAINATION
-        - WITH JUSTIFY CONTENT,ALIGN ITEMS,FLEX,FLEX WRAP,ORDER
-        
-    2. GRID
-        
-        - GIVE A 1 LINE EXPLAINATION
-
-- WHAT TAILWIND
-
-    - GIVE A 1 LINE EXPLAINATION      
+    3. GRID: Grid is a CSS property for creating two-dimensional layouts with rows and columns, providing precise control over the placement and sizing of elements.
+  
+TAILWIND: Tailwind CSS is a utility-first CSS framework that streamlines web development by providing a set of pre-designed utility classes for styling without writing custom CSS.
