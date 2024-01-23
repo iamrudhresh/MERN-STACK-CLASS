@@ -98,21 +98,27 @@
     
 - HOW TO GET FONT & COLOR , IMAGE, CDN
    
-    - 💡 Fonts - WEBSITE LINK
+    - 💡 Fonts - [WEBSITE LINK](https://fonts.google.com/)
     
-    - 💡 Color - WEBSITE LINK
+    - 💡 Color - [WEBSITE LINK](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Color_picker_tool)
      
-    - 💡 IMAGE - WEBSITE LINK
+    - 💡 IMAGE - [WEBSITE LINK](https://www.freepik.com/)
     
-    - 💡 CDN - WEBSITE LINK
-        
+    - 💡 CDN   - [WEBSITE LINK](https://imagekit.io/dashboard)
+      
 - BASIC CSS FAMILY
     1. **Text family:**
-        - **`font-family`**:  font-family: "Roboto";
-        - REAMING ALL
+        - **`font-family`**
+        - **`font-size`**
+        - **`font-weight`**
     2. **Color & Background family:**
-        - **`color`**: color : red;
-        - REAMING ALL
+        - **`color`**
+        - **`background-color`**
+        - **`background-image`**
+        - **`background-repeat`**
+        - **`background-position`**
+        - **`background-size`**
+
     3. **Box model:**
         - **`width`** and **`height`**: width:100px; and height:100px;
         - REAMING ALL
