@@ -134,6 +134,6 @@
         - **`Flex Wrap`**: Determines whether flex items should wrap to the next line if there's insufficient space.
         - **`Order`**: Controls the order of a flex item relative to its siblings.
         
-    3. GRID: Grid is a CSS property for creating two-dimensional layouts with rows and columns, providing precise control over the placement and sizing of elements.
+    3. GRID: Grid is used for creating two-dimensional layouts with rows and columns.
   
-TAILWIND: Tailwind CSS is a utility-first CSS framework that streamlines web development by providing a set of pre-designed utility classes for styling without writing custom CSS.
+TAILWIND: Tailwind CSS is a utility-first CSS framework, It is basically used for styling without writing custom CSS.
