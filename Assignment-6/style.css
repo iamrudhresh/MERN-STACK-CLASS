@@ -1,0 +1,31 @@
+
+.bg{
+    background-image: URL(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+.bg{
+    height: 92vh;
+    width: 350px;
+}
+.heading{
+    color: white;
+    font-style: "Roboto";
+    font-weight: 200;
+    background-color: #323f4b;
+    text-align: center;
+    padding: 10px;
+}
+.sent{
+    background-color: #6dbdf2;
+    color: white;
+    padding: 10px;
+    text-align: right;
+    border-radius: 10px;
+    margin: 10px;
+}
+.received{
+    background-color: #646d73;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
