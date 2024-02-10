@@ -22,7 +22,7 @@ Each value in the array must be a number.
 // Function to multiply each value of an array by ten
 function multiplyByTen(myArray) {
     // Use the map() method to create a new array with each element multiplied by 10
-    const resultArray = ___--Complete The Code--___
+    const resultArray = myArray.map(num => num * 10);
     return resultArray;
 }
 
@@ -56,7 +56,7 @@ Each value in the array must be a number.
 // Function to filter out even numbers from an array
 function filterEvenNumbers(myArray) {
     // Use the filter() method to create a new array with only the even numbers
-    const resultArray = ___--Complete The Code--___
+    const resultArray = myArray.filer(num => num%2===0);
     return resultArray;
 }
 
