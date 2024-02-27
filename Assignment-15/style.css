@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#fetch-button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#bacon-ipsum {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
